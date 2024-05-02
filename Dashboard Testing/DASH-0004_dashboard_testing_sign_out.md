@@ -11,8 +11,8 @@ Scenario 1
  |----|------|-------------------| 
  |  1 |Launch the App   | Verify that the app is working| 
  |  2 |Log into the app      | Verify that 'log-in' page is shown  |  
- |  3 |View dashboard      | Verify that the dashboard is shown   |  
- |  3 |press 'Log out'      | Verify that log out feature is working and redirects you back to the log in page.   |  
+ |  3 |View `dashboard`      | Verify that the `dashboard` is shown   |  
+ |  3 |press `Sign out`      | Verify that `sign out` feature is working and `redirects` you back to the `log in` page.   |  
 
 **Post-conditions:**  
-- The user is successfully logged out of the system.
+- The user is successfully signed out from the system.

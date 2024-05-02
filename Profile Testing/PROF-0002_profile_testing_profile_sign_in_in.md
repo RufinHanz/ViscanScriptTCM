@@ -1,6 +1,6 @@
-## **FORM-0003:** Form testing - Reset Form  
+## **PROF-0002:** Profile testing - Profile (Sign-In)
 
-> **Summary:** Verify that reset function is working.  <br>
+> **Summary:** Verify that profile's sign-out is working successfully.  <br>
 
 **Preconditions:** _None_  
 
@@ -13,7 +13,4 @@ Scenario 1
  |  3 |      | Verify that ...   |  
 
 **Post-conditions:**  
-
- - x  
- - y  
- - z  
+_None_
