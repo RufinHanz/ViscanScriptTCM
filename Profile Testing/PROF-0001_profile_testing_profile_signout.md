@@ -1,4 +1,4 @@
-## **PROF-0001:** Profile testing - Profile (Sign-Out)
+## **PROF-0001:** Profile testing - Profile Sign-Out
 
 > **Summary:** Verify that profile's sign-out is working successfully.  <br>
 
